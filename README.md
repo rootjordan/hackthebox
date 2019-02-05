@@ -1,2 +1,2 @@
 # Hackthebox  
-> Providing writeups for machinesand challanges
+> Providing writeups for machines and challanges
